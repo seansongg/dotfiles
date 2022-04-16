@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = seanhyeonwoo93@gmail.com
+	name = Sean Song
